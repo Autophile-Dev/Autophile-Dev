@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://waleedzaheer.vercel.app/](https://waleedzaheer.vercel.app/)
 
-- 💬 Ask me about **React.js, Next.js, Node.js, CodeIgniter, PHP, JavaScript, TypeScript**
+- 💬 Ask me about **React.js, Next.js, Node.js, CodeIgniter, PHP, JavaScript, TypeScript, Python**
 
 - 📫 How to reach me **waleed.zaheer55@gmail.com**
 
