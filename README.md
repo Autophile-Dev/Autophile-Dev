@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Waleed Zaheer</h1>
-<h3 align="center">I'm a highly self-motivated Full Stack Developer who spends most of his time in coding and keeping myself up-to-date with the latest technologies. Proficient with Python, PHP and JS Frameworks. 1+ year of working experience in software development.</h3>
+<h3 align="center">I'm a highly self-motivated Full Stack Developer who spends most of his time in coding and keeping myself up-to-date with the latest technologies. Proficient with Python, PHP and JS Frameworks. 2+ year of working experience in software development.</h3>
 
 - 🔭 I’m currently working on **Lead Management Portal, KBS Website and Crypto Web3 Mobile App**
 
