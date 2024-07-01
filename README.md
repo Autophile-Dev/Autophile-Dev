@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Django and Golang**
 
-- 👯 I’m looking to collaborate on **SaaS Products, PaaS Products, IaaS Products, IoT Products, ML, AI**
+- 👯 I’m looking to collaborate on **SaaS Products, PaaS Products, IaaS Products, IoT Products, ML**
 
 - 👨‍💻 All of my projects are available at [https://waleedzaheer.vercel.app/](https://waleedzaheer.vercel.app/)
 
