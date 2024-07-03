@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Lead Management Portal, KBS Website, Crypto Web3 Mobile App, Booking Management System and E-commerce App**
 
-- 🌱 I’m currently learning **Django and Golang**
+- 🌱 I’m currently learning **Django | Golang | Data Analytics**
 
 - 👯 I’m looking to collaborate on **SaaS Products, PaaS Products, IaaS Products, IoT Products, ML and AI Products**
 
