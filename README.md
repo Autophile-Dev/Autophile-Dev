@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://waleedzaheer.vercel.app/](https://waleedzaheer.vercel.app/)
 
-- 💬 Ask me about **React.js, Next.js, Node.js, CodeIgniter, Laravel, PHP, JavaScript, TypeScript, Python, C++, Go, Ruby, R also for Digital Marketing, Data Analytics**
+- 💬 Ask me about **React.js, Next.js, Node.js, CodeIgniter, Laravel, PHP, JavaScript, TypeScript, Python, C++, C, Go, Ruby, R also for Digital Marketing, Data Analytics**
 
 - 📫 How to reach me **waleed.zaheer55@gmail.com**
 
