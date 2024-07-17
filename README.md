@@ -2,7 +2,7 @@
 <h5 align="center">Software Engineer | Data Engineer | QA Specialist | AI Enthusiast | Creating Scalable Solutions </h5>
 <h3 align="center">I'm a highly self-motivated Full Stack Developer who spends most of his time in coding and keeping myself up-to-date with the latest technologies. Proficient with Python, PHP and JS Frameworks. 2+ years of working experience in software development.</h3>
 
-- 🔭 I’m currently working on **Lead Management Portal, KBS Business Website, Crypto Web3 Mobile Apps, Booking Management Systems and E-commerce App**
+- 🔭 I’m currently working on **Lead Management Portal, KBS Business Website, Crypto Web3 Mobile App, Booking Management Systems and E-commerce App**
 
 - 🌱 I’m currently learning **Django | Golang | Data Analytics**
 
