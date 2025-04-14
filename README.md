@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7abba77d-9649-406b-8de4-eeb028584b92)<h1 align="center">Hi 👋, I'm Waleed Zaheer</h1>
+<h1 align="center">Hi 👋, I'm Waleed Zaheer</h1>
 <h5 align="center">Software Engineer | Data Engineer | AI Enthusiast | Creating Scalable Solutions </h5>
 <h3 align="center">I'm a highly self-motivated Full Stack Developer who spends most of his time in coding and keeping myself up-to-date with the latest technologies. Proficient with Python, PHP and JS Frameworks. 2.5+ years of working experience in software development. Also able to manage the large scale projects.</h3>
 
