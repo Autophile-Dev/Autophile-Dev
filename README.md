@@ -13,7 +13,6 @@
 - 💬 Ask me about **React.js, Next.js, Node.js, CodeIgniter, Laravel, PHP, JavaScript, TypeScript, Python, C++, Go, Ruby, R also for Digital Marketing, Data Analytics**
 
 - 📫 How to reach me **waleed.zaheer55@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/waleed-zaheer-0b4326242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waleed-zaheer-0b4326242" height="30" width="40" /></a>
