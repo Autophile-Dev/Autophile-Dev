@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Waleed Zaheer</h1>
 <h5 align="center">Software Engineer | Data Engineer | AI Enthusiast | Creating Scalable Solutions </h5>
-<h3 align="center">I'm a highly self-motivated Full Stack Developer who spends most of his time in coding and keeping myself up-to-date with the latest technologies. Proficient with Python, PHP and JS Frameworks. 4+ years of working experience in software development. PM </h3>
+<h3 align="center">I'm a highly self-motivated Full Stack Developer who spends most of his time in coding and keeping myself up-to-date with the latest technologies. Proficient with Python, PHP, Go Lang and JS Frameworks. 4+ years of working experience in software development. PM </h3>
 
 - 🔭 I’m currently working on **Lead Management Portal, KBS Business Website, Crypto Web3 Mobile App, Booking Management System and E-commerce Apps**
 
-- 🌱 I’m currently learning **Django | Go lang | Data Analytics**
+- 🌱 I’m currently learning **Java JSP | Nest | Data Analytics**
 
 - 👯 I’m looking to collaborate on **SaaS Products, PaaS Products, IaaS Products, IoT Products, ML and AI Products**
 
