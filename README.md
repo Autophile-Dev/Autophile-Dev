@@ -1,18 +1,164 @@
 <h1 align="center">Hi 👋, I'm Waleed Zaheer</h1>
-<h5 align="center">Software Engineer | Data Engineer | AI Enthusiast | Creating Scalable Solutions </h5>
-<h3 align="center">I'm a highly self-motivated Full Stack Developer who spends most of his time in coding and keeping myself up-to-date with the latest technologies. Proficient with Python, PHP, Go Lang and JS Frameworks. 4+ years of working experience in software development. PM </h3>
 
-- 🔭 I’m currently working on **Lead Management Portal, KBS Business Website, Crypto Web3 Mobile App, Booking Management System and E-commerce Apps**
+<h3 align="center">
+Full-Stack AI Developer • Python • React • AI Agents • SaaS • Automation
+</h3>
 
-- 🌱 I’m currently learning **Java JSP | Nest | Data Analytics**
+<p align="center">
+I build scalable SaaS platforms, AI-powered applications, workflow automation, and modern web products that help businesses automate operations and grow faster.
+</p>
 
-- 👯 I’m looking to collaborate on **SaaS Products, PaaS Products, IaaS Products, IoT Products, ML and AI Products**
+---
 
-- 👨‍💻 All of my projects are available at [https://waleedzaheer.vercel.app/](https://waleedzaheer.vercel.app/)
+## 🚀 About Me
 
-- 💬 Ask me about **React.js, Next.js, Node.js, CodeIgniter, Laravel, PHP, JavaScript, TypeScript, Python, C++, Go, Ruby, R also for Digital Marketing, Data Analytics**
+I'm a Full-Stack AI Developer with 5+ years of experience building production-ready web applications, SaaS products, AI agents, automation systems, dashboards, and enterprise software.
 
-- 📫 How to reach me **waleed.zaheer55@gmail.com**
+I enjoy solving real business problems using AI, automation, and scalable software architecture.
+
+Currently focusing on:
+
+- 🤖 AI Agents & AI Automation
+- ⚡ SaaS Product Development
+- 🌐 Full-Stack Web Applications
+- 📊 Business Analytics & Dashboards
+- 🔗 API Integrations & Workflow Automation
+
+---
+
+## 💼 What I Build
+
+- AI Agents
+- AI SaaS Platforms
+- CRM & ERP Systems
+- Lead Management Platforms
+- POS & Restaurant Management Systems
+- Membership Platforms
+- Admin Dashboards
+- Business Analytics Systems
+- Automation Workflows
+- Custom APIs
+- Enterprise Web Applications
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+- React.js
+- Next.js
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Material UI
+- Bootstrap
+
+### Backend
+
+- Python
+- Django
+- FastAPI
+- Node.js
+- Express.js
+- PHP
+- Laravel
+- CodeIgniter
+
+### AI & Automation
+
+- OpenAI
+- ChatGPT
+- Claude
+- n8n
+- AI Agents
+- Prompt Engineering
+- MCP
+- RAG
+- Workflow Automation
+
+### Databases
+
+- PostgreSQL
+- MongoDB
+- MySQL
+- Firebase
+
+### DevOps & Cloud
+
+- Docker
+- GitHub Actions
+- Vercel
+- Azure
+- Linux
+- Nginx
+
+### Tools
+
+- Git
+- Jira
+- Postman
+- Figma
+- VS Code
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced AI Agent Architectures
+- LangGraph
+- Multi-Agent Systems
+- Kubernetes
+- Data Engineering
+- Machine Learning
+
+---
+
+## 🤝 Looking to Collaborate On
+
+- AI Products
+- SaaS Startups
+- Automation Platforms
+- Open Source Projects
+- Enterprise Software
+- Developer Tools
+
+---
+
+## 💬 Ask Me About
+
+- Python
+- Django
+- React
+- Next.js
+- Node.js
+- AI Agents
+- n8n Automation
+- REST APIs
+- PostgreSQL
+- MongoDB
+- SaaS Architecture
+- Software Engineering
+
+---
+
+## 🌐 Portfolio
+
+**Portfolio:** https://waleedzaheer.vercel.app/
+
+---
+
+## 📫 Contact
+
+📧 **Email:** waleed.zaheer55@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning complex business workflows into intelligent AI-powered systems that save time, reduce manual work, and scale effortlessly.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/waleed-zaheer-0b4326242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waleed-zaheer-0b4326242" height="30" width="40" /></a>
