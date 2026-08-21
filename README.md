@@ -12,7 +12,7 @@ I build scalable SaaS platforms, AI-powered applications, workflow automation, a
 
 ## 🚀 About Me
 
-I'm a Full-Stack AI Developer with 10+ years of experience building production-ready web applications, SaaS products, AI agents, automation systems, dashboards, and enterprise software.
+I'm a Full-Stack AI Developer with 6+ years of experience building production-ready web applications, SaaS products, AI agents, automation systems, dashboards, and enterprise software.
 
 I enjoy solving real business problems using AI, automation, and scalable software architecture.
 
